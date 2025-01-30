@@ -17,6 +17,8 @@ const App = () => {
       >
         increase count
       </Button>
+
+      <Button>decrease count</Button>
     </Box>
   );
 };
